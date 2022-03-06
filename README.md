@@ -31,16 +31,16 @@ Projeto front-end entregue para a Recode.
 # Como executar o projeto:
 
 ```bash
-### Clonar repositório:
+# Clonar repositório:
 git clone https://github.com/MarinaDonde/AgenciaViaje.git
 
-### Entrar na pasta do projeto AgViaje
+# Entrar na pasta do projeto AgViaje
 cd agviaje
 
-### Instalar dependências
+# Instalar dependências
 yarn install
 
-### Executar o projeto
+# Executar o projeto
 yarn start
 ```
 
