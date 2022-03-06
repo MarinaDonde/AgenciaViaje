@@ -1,0 +1,25 @@
+.banner {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.section_index{
+    max-width: 1000px; 
+    margin-bottom: 40px;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+    color: #0253F7;
+    font-size: 2em;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.268);
+}
+
+.texto {
+    text-align: justify;
+    padding: 20px;
+    font-size: 1.2em;
+    color: rgb(56, 54, 54);
+}
+

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "94313731",
+    "name": "Arraial do Cabo - RJ",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 1999.00,
+    "image": "https://i.imgur.com/NWDNG2l.jpg"
+  },
+  {
+    "id": "94313762",
+    "name": "Porto de Galinhas - PE",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 2399.00,
+    "image": "https://i.imgur.com/RT4jDHX.jpg"
+  },
+  {
+    "id": "95077777",
+    "name": "Jericoacoara - CE",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 2799.00,
+    "image": "https://i.imgur.com/wnKkKNR.jpg"
+  },
+  {
+    "id": "95077714",
+    "name": "Rio de Janeiro - RJ",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 1299.00,
+    "image": "https://i.imgur.com/wxof2aI.jpg"
+  },
+  {
+    "id": "94313731",
+    "name": "São Paulo - SP",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 1099.00,
+    "image": "https://i.imgur.com/OLJTA0y.jpg"
+  },
+  {
+    "id": "94313762",
+    "name": "Porto Alegre - RS",
+    "days": "5 diárias",
+    "info": "(Hospedagem)",
+    "price": 699.00,
+    "image": "https://i.imgur.com/sQzPZX4.jpg"
+  },
+  {
+    "id": "943137XQ",
+    "name": "Toronto - Canadá",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 8999.00,
+    "image": "https://i.imgur.com/QfARnLc.jpg"
+  },
+  {
+    "id": "95077714",
+    "name": "New York - EUA",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 8599.00,
+    "image": "https://i.imgur.com/OagKrJI.jpg"
+  },
+  {
+    "id": "93077714",
+    "name": "Cairo - Egito",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "price": 7099.00,
+    "image": "https://i.imgur.com/riUrRpB.jpg"
+  }
+]

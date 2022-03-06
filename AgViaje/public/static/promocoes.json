@@ -1,0 +1,57 @@
+[
+  {
+    "id": "94313731",
+    "name": "Belo Horizonte - MG",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "oldPrice": 2099.00,
+    "promoPrice": 1599.00,
+    "image": "https://i.imgur.com/ogJqHIt.jpg"
+  },
+  {
+    "id": "94313762",
+    "name": "Florianópolis - SC",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "oldPrice": 1800.00,
+    "promoPrice": 1199.00,
+    "image": "https://i.imgur.com/LdTmJlS.jpg"
+  },
+  {
+    "id": "95077777",
+    "name": "Fortaleza - CE",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "oldPrice": 2599.00,
+    "promoPrice": 1999.00,
+    "image": "https://i.imgur.com/Cn1EJ8r.jpg"
+  },
+  {
+    "id": "95077714",
+    "name": "Manaus - AM",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "oldPrice": 3099.00,
+    "promoPrice": 2599.00,
+    "image": "https://i.imgur.com/3EqlGUL.jpg"
+  },
+  {
+    "id": "94313731",
+    "name": "Gramado - RS",
+    "days": "5 diárias",
+    "info": "(Hospedagem + translado)",
+    "oldPrice": 1100.00,
+    "promoPrice": 999.00,
+    "image": "https://i.imgur.com/09SyWGq.jpg"
+  },
+  {
+    "id": "94313762",
+    "name": "Bonito - MS",
+    "days": "5 diárias",
+    "info": "(Hospedagem + passagem)",
+    "oldPrice": 1999.00,
+    "promoPrice": 1599.00,
+    "image": "https://i.imgur.com/XFUj3El.jpg"
+  }
+ 
+]

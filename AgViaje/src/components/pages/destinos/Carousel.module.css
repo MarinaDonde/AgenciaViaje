@@ -1,0 +1,157 @@
+  .section_carousel {
+    min-height: 800px;
+    margin: 0;
+    background: linear-gradient(45deg,#0818E0,#0253F7,#028EED, #fff);
+    background-size: 300% 300%;
+    animation: colors 15s ease infinite;
+  }
+
+  .title{
+    color: #fff;
+  }
+
+  .container_carousel {
+    max-width: 900px; 
+  }
+  
+  .container_carousel .carousel {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    overflow: auto;
+    scroll-behavior: smooth;
+    height: 600px;
+  }
+  
+  .container_carousel .carousel::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .container_carousel .carousel .item{
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    width: 280px;
+    height: 500px;
+    border-radius: 16px;
+    flex: none;
+  }
+  
+  .container_carousel .carousel .item .image img {
+    width: 260px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 16px 16px 0 0;
+
+  }
+  
+  .container_carousel .carousel .item .info {
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .container_carousel .carousel .item .info span {
+    display: block;
+    text-align: center;
+    color: #0253F7;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  .container_carousel .carousel .item .info .name{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #0253F7;
+    
+  }
+  
+  .container_carousel .carousel .item .info .oldPrice {
+    font-size:0.8rem;
+    text-decoration: line-through;
+    flex-grow: 1;
+    color: #e81a5d;
+  
+  }
+  
+  .container_carousel .carousel .item .info .price {
+    margin-top: 35px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100px;
+    background-color: #0818E0;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .container_carousel .carousel .item .info .price:hover {
+    background-image: linear-gradient(to right,#0818E0,#0253F7,#028EED);
+    transition: background .5s;
+  }
+
+  .container_carousel .carousel .item .info .promoPrice {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100px;
+    background-color: #0818E0;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .container_carousel .carousel .item .info .promoPrice:hover {
+    background-image: linear-gradient(to right,#0818E0,#0253F7,#028EED);
+    transition: background .5s;
+  }
+  
+  .container_carousel .buttons {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .container_carousel .buttons button {
+    margin-bottom: 30px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 2em;
+  }
+
+  .container_carousel .buttons button:hover {
+    color: #0818E0;
+  } 
+
+  @keyframes colors {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .container_carousel .carousel {
+      max-width: 600px;
+      margin: auto;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .container_carousel .carousel {
+      max-width: 300px;
+      margin: auto;
+    }
+  }
+
+
+  

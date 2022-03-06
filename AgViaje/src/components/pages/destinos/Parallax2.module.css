@@ -1,0 +1,31 @@
+.img_site {
+    background-image: url(../../../img/praiatropical.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    height: 900px;
+}
+
+.img_promoPage {
+    background-image: url(../../../img/destino5.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    height: 900px;
+}
+
+.text_center {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    color: #0253F7;
+    text-shadow: .5px .5px .5px #0818E0, -.5px .5px .5px #0818E0, .5px -.5px .5px #0818E0, -.5px -.5px .5px #0818E0;
+}

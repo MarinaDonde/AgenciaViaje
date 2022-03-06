@@ -1,0 +1,48 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnformulario {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-image: linear-gradient(to right,#0818E0,#0253F7,#028EED);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    align-items: center;
+    font-size: 1.2em;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.248);
+    cursor: pointer;
+}
+
+.btnformulario:hover {
+    background-image: linear-gradient(to right,#028EED,#0253F7,#0818E0);
+}
+
+label {
+    text-align: right;
+    padding: 10px;
+    font-family: 'Readex Pro', sans-serif;
+    color: var(--cor5);
+}
+
+input {
+    padding: 5px;
+    width: 300px;
+    border-radius: 8px;
+    border-color: (var(--cor5));
+}
+
+form{
+    max-width: 1000px;
+    margin-bottom: 30px;
+}
+
+.banner {
+    width: 100%;
+    margin-bottom: -8px;
+}
