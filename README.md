@@ -19,15 +19,15 @@ Website institucional de uma Agencia de Viagens. O site contém as páginas: Hom
 
 ![Home AgenciaViaje!](https://i.imgur.com/G1Kxxza.jpg)
 
-### 🔹 Layout Web - Destinos:
+🔹 Layout Web - Destinos:
 
 ![Destinos AgenciaViaje!](https://i.imgur.com/k9efaVd.jpg)
 
-### 🔹 Layout Web - Contato:
+🔹 Layout Web - Contato:
 
 ![Contato AgenciaViaje!](https://i.imgur.com/SlQsZrd.jpg)
 
-### 🔹 Layout Mobile - Contato:
+🔹 Layout Mobile - Contato:
 
 ![Contato AgenciaViaje!](https://i.imgur.com/dBWuVAE.jpg)
 
