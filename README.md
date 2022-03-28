@@ -1,10 +1,13 @@
-# AgenciaViaje
+# AgenciaViaje - React
+### Recode - Terceira Entrega Individual
 Website institucional de uma Agencia de Viagens. O site contém as páginas: Home, Destinos, Promoções e Contato.
-Projeto front-end entregue para a Recode.
+
+🎯 Objetivo: Continuar a construção do site da agência de viagens, dessa vez utilizando React. 
+
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarinaDonde/AgenciaViaje.git)
 
-### Tecnologias utilizadas:
+### ✨ Tecnologias utilizadas:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -12,23 +15,23 @@ Projeto front-end entregue para a Recode.
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>   
 </div>
 
-### Layout Web - Home:
+### 🔹 Layout Web - Home:
 
 ![Home AgenciaViaje!](https://i.imgur.com/G1Kxxza.jpg)
 
-### Layout Web - Destinos:
+### 🔹 Layout Web - Destinos:
 
 ![Destinos AgenciaViaje!](https://i.imgur.com/k9efaVd.jpg)
 
-### Layout Web - Contato:
+### 🔹 Layout Web - Contato:
 
 ![Contato AgenciaViaje!](https://i.imgur.com/SlQsZrd.jpg)
 
-### Layout Mobile - Contato:
+### 🔹 Layout Mobile - Contato:
 
 ![Contato AgenciaViaje!](https://i.imgur.com/dBWuVAE.jpg)
 
-# Como executar o projeto:
+## 🔹 Como executar o projeto:
 
 ```bash
 # Clonar repositório:
@@ -44,9 +47,9 @@ yarn install
 yarn start
 ```
 
-## Autora
+### Desenvolvido com 💙 por:
 
-Marina Dondé
+Marina Dondé 😊
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-dond%C3%A9-72a649217/)
 
